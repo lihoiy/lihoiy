@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lihoiy
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python and php.
+- 🌱 I’m currently learning Python and DevOps technology.
 
 
 <!---
